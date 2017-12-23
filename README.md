@@ -1,5 +1,5 @@
 # bilibili
-基于scrapy框架，抓取bilibili前十万用户的个人信息
+基于scrapy框架，抓取bilibili前十万用户的个人信息 https://space.bilibili.com/1#/
 
 
 存储在mysql数据库中
